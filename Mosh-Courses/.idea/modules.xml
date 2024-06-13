@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Courses/Java-1/Control Flow/Control Flow.iml" filepath="$PROJECT_DIR$/Java-Courses/Java-1/Control Flow/Control Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Courses/Java-1/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Java-Courses/Java-1/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Courses/Java-2/Java-2.iml" filepath="$PROJECT_DIR$/Java-Courses/Java-2/Java-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mosh-Courses.iml" filepath="$PROJECT_DIR$/.idea/Mosh-Courses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Courses/Java-1/Types/Types.iml" filepath="$PROJECT_DIR$/Java-Courses/Java-1/Types/Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Courses/Java-1/morgage calculator/morgage calculator.iml" filepath="$PROJECT_DIR$/Java-Courses/Java-1/morgage calculator/morgage calculator.iml" />
+    </modules>
+  </component>
+</project>

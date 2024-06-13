@@ -1,0 +1,5 @@
+Dynamic Routes for projectDashboard's
+filter bugs per projectDashboard
+Create new projectDashboard's
+Add Users and connect bugs and projects to the user who creates them
+Delete projects and make completed
