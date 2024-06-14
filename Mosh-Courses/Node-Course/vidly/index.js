@@ -4,11 +4,14 @@ const mongoose = require("mongoose");
 const genres = require("./routes/genres");
 const customers = require("./routes/customers");
 const movies = require("./routes/movies");
+const users = require("./routes/users")
 
 app.use(express.json());
 app.use("/api/customers", customers);
 app.use("/api/genres", genres);
 app.use("/api/movies", movies);
+app.use("/api/users", users)
+
 
 mongoose
     .connect("mongodb://127.0.0.1:27017/vidly")
